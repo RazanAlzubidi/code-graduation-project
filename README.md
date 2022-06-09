@@ -11,7 +11,7 @@ Mariam Hillail Albjali        s438011946@st.uqu.edu.sa
 
 All software engineering related to the application is present and detailed in the following report:
 
-file:///C:/Users/ra/Downloads/Graduation-Project-REPOR_Together-we-rise_2022.html 
+https://drive.google.com/file/d/1xZOKyPMdpwOTr2-CSDvWEOtnrkFtXG_O/view?usp=sharing
 
 In order for the application to work on your device, you need to download the latest version from:
 - Github
