@@ -2,6 +2,7 @@
 This application was designed, programmed, and submitted for a graduation project to obtain a bachelor's degree in Information Systems,summer 2022.
 
 All rights reserved to Together We Rise members:
+
 Razan Abdullah Alzubidi s438001630@st.uqu.edu.sa
 Hanen Yasser Alsurihi     s438011066@st.uqu.edu.sa  
 Mariam Hillail Albjali        s438011946@st.uqu.edu.sa
